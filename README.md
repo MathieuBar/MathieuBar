@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathieuBar
-- 👀 I’m interested in AI, software development
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in software development, ecology, green IT
+- 🌱 I’m currently learning git and github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
